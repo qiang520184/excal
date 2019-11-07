@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,KACI,WAAY,CACZ,YAAa,CACb,kBAAmB,CACnB,sBAAuB","file":"main.1322d758.chunk.css","sourcesContent":[".top {\n    height: 60px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}"]}
