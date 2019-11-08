@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/excal.io/index.html/static/css/main.44aab8e4.chunk.css",
-    "main.js": "/excal.io/index.html/static/js/main.a547dfef.chunk.js",
-    "main.js.map": "/excal.io/index.html/static/js/main.a547dfef.chunk.js.map",
-    "runtime-main.js": "/excal.io/index.html/static/js/runtime-main.2e033139.js",
-    "runtime-main.js.map": "/excal.io/index.html/static/js/runtime-main.2e033139.js.map",
-    "static/css/2.7ececfe9.chunk.css": "/excal.io/index.html/static/css/2.7ececfe9.chunk.css",
-    "static/js/2.1f1321f8.chunk.js": "/excal.io/index.html/static/js/2.1f1321f8.chunk.js",
-    "static/js/2.1f1321f8.chunk.js.map": "/excal.io/index.html/static/js/2.1f1321f8.chunk.js.map",
-    "index.html": "/excal.io/index.html/index.html",
-    "precache-manifest.94127f16c7e9b82b5b433c0876c986aa.js": "/excal.io/index.html/precache-manifest.94127f16c7e9b82b5b433c0876c986aa.js",
-    "service-worker.js": "/excal.io/index.html/service-worker.js",
-    "static/css/2.7ececfe9.chunk.css.map": "/excal.io/index.html/static/css/2.7ececfe9.chunk.css.map",
-    "static/css/main.44aab8e4.chunk.css.map": "/excal.io/index.html/static/css/main.44aab8e4.chunk.css.map",
-    "static/media/index.less": "/excal.io/index.html/static/media/index.dffc3702.less"
+    "main.css": "/excal.io/static/css/main.44aab8e4.chunk.css",
+    "main.js": "/excal.io/static/js/main.ed30350c.chunk.js",
+    "main.js.map": "/excal.io/static/js/main.ed30350c.chunk.js.map",
+    "runtime-main.js": "/excal.io/static/js/runtime-main.d6d618eb.js",
+    "runtime-main.js.map": "/excal.io/static/js/runtime-main.d6d618eb.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/excal.io/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.d09a026a.chunk.js": "/excal.io/static/js/2.d09a026a.chunk.js",
+    "static/js/2.d09a026a.chunk.js.map": "/excal.io/static/js/2.d09a026a.chunk.js.map",
+    "index.html": "/excal.io/index.html",
+    "precache-manifest.1d25f101c02729b23e9e1080cea2da67.js": "/excal.io/precache-manifest.1d25f101c02729b23e9e1080cea2da67.js",
+    "service-worker.js": "/excal.io/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/excal.io/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.44aab8e4.chunk.css.map": "/excal.io/static/css/main.44aab8e4.chunk.css.map",
+    "static/media/index.less": "/excal.io/static/media/index.dffc3702.less"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e033139.js",
+    "static/js/runtime-main.d6d618eb.js",
     "static/css/2.7ececfe9.chunk.css",
-    "static/js/2.1f1321f8.chunk.js",
+    "static/js/2.d09a026a.chunk.js",
     "static/css/main.44aab8e4.chunk.css",
-    "static/js/main.a547dfef.chunk.js"
+    "static/js/main.ed30350c.chunk.js"
   ]
 }
