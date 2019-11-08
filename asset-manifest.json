@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/excal.io/static/css/main.44aab8e4.chunk.css",
-    "main.js": "/excal.io/static/js/main.ed30350c.chunk.js",
-    "main.js.map": "/excal.io/static/js/main.ed30350c.chunk.js.map",
+    "main.js": "/excal.io/static/js/main.87e31387.chunk.js",
+    "main.js.map": "/excal.io/static/js/main.87e31387.chunk.js.map",
     "runtime-main.js": "/excal.io/static/js/runtime-main.d6d618eb.js",
     "runtime-main.js.map": "/excal.io/static/js/runtime-main.d6d618eb.js.map",
     "static/css/2.7ececfe9.chunk.css": "/excal.io/static/css/2.7ececfe9.chunk.css",
-    "static/js/2.d09a026a.chunk.js": "/excal.io/static/js/2.d09a026a.chunk.js",
-    "static/js/2.d09a026a.chunk.js.map": "/excal.io/static/js/2.d09a026a.chunk.js.map",
+    "static/js/2.803b34a3.chunk.js": "/excal.io/static/js/2.803b34a3.chunk.js",
+    "static/js/2.803b34a3.chunk.js.map": "/excal.io/static/js/2.803b34a3.chunk.js.map",
     "index.html": "/excal.io/index.html",
-    "precache-manifest.1d25f101c02729b23e9e1080cea2da67.js": "/excal.io/precache-manifest.1d25f101c02729b23e9e1080cea2da67.js",
+    "precache-manifest.0a4815cf5582270e174272595d886cfc.js": "/excal.io/precache-manifest.0a4815cf5582270e174272595d886cfc.js",
     "service-worker.js": "/excal.io/service-worker.js",
     "static/css/2.7ececfe9.chunk.css.map": "/excal.io/static/css/2.7ececfe9.chunk.css.map",
     "static/css/main.44aab8e4.chunk.css.map": "/excal.io/static/css/main.44aab8e4.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.d6d618eb.js",
     "static/css/2.7ececfe9.chunk.css",
-    "static/js/2.d09a026a.chunk.js",
+    "static/js/2.803b34a3.chunk.js",
     "static/css/main.44aab8e4.chunk.css",
-    "static/js/main.ed30350c.chunk.js"
+    "static/js/main.87e31387.chunk.js"
   ]
 }
