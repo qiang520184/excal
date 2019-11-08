@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/excal.io/static/css/main.44aab8e4.chunk.css",
-    "main.js": "/excal.io/static/js/main.87e31387.chunk.js",
-    "main.js.map": "/excal.io/static/js/main.87e31387.chunk.js.map",
-    "runtime-main.js": "/excal.io/static/js/runtime-main.d6d618eb.js",
-    "runtime-main.js.map": "/excal.io/static/js/runtime-main.d6d618eb.js.map",
-    "static/css/2.7ececfe9.chunk.css": "/excal.io/static/css/2.7ececfe9.chunk.css",
-    "static/js/2.803b34a3.chunk.js": "/excal.io/static/js/2.803b34a3.chunk.js",
-    "static/js/2.803b34a3.chunk.js.map": "/excal.io/static/js/2.803b34a3.chunk.js.map",
-    "index.html": "/excal.io/index.html",
-    "precache-manifest.0a4815cf5582270e174272595d886cfc.js": "/excal.io/precache-manifest.0a4815cf5582270e174272595d886cfc.js",
-    "service-worker.js": "/excal.io/service-worker.js",
-    "static/css/2.7ececfe9.chunk.css.map": "/excal.io/static/css/2.7ececfe9.chunk.css.map",
-    "static/css/main.44aab8e4.chunk.css.map": "/excal.io/static/css/main.44aab8e4.chunk.css.map",
-    "static/media/index.less": "/excal.io/static/media/index.dffc3702.less"
+    "main.css": "/reactExcal/static/css/main.44aab8e4.chunk.css",
+    "main.js": "/reactExcal/static/js/main.fe70590a.chunk.js",
+    "main.js.map": "/reactExcal/static/js/main.fe70590a.chunk.js.map",
+    "runtime-main.js": "/reactExcal/static/js/runtime-main.3b0390da.js",
+    "runtime-main.js.map": "/reactExcal/static/js/runtime-main.3b0390da.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/reactExcal/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.247617d9.chunk.js": "/reactExcal/static/js/2.247617d9.chunk.js",
+    "static/js/2.247617d9.chunk.js.map": "/reactExcal/static/js/2.247617d9.chunk.js.map",
+    "index.html": "/reactExcal/index.html",
+    "precache-manifest.ff869584e849ebbe6bdab7f1aeb24e0a.js": "/reactExcal/precache-manifest.ff869584e849ebbe6bdab7f1aeb24e0a.js",
+    "service-worker.js": "/reactExcal/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/reactExcal/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.44aab8e4.chunk.css.map": "/reactExcal/static/css/main.44aab8e4.chunk.css.map",
+    "static/media/index.less": "/reactExcal/static/media/index.dffc3702.less"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6d618eb.js",
+    "static/js/runtime-main.3b0390da.js",
     "static/css/2.7ececfe9.chunk.css",
-    "static/js/2.803b34a3.chunk.js",
+    "static/js/2.247617d9.chunk.js",
     "static/css/main.44aab8e4.chunk.css",
-    "static/js/main.87e31387.chunk.js"
+    "static/js/main.fe70590a.chunk.js"
   ]
 }
